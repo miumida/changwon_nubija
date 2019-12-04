@@ -1,0 +1,10 @@
+{
+  "domain": "changwon_nubija",
+  "name": "changwon_nubija",
+  "documentation": "https://github.com/miumida/changwon_nubija",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@miumida"
+  ]
+}
