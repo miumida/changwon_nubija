@@ -24,7 +24,7 @@ CONF_INDEX = 'index'
 
 BSE_URL = 'https://www.nubija.com/terminal/terminalState.do'
 
-DEFAULT_NAME = 'nubija'
+DEFAULT_NAME = ''
 DEFAULT_ICON = 'mdi:bike'
 
 MIN_TIME_BETWEEN_API_UPDATES    = timedelta(seconds=3600) #
